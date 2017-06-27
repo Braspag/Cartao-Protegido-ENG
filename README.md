@@ -1,4 +1,4 @@
-<table width='100%' border="0"><tr><td align="center"><img src="/Cartao-Protegido/source/Cartao-Protegido-ENG/source/images/logo-cp.PNG" border="0"></td></tr></table>
+<table width='100%' border="0"><tr><td align="center"><img src="/Cartao-Protegido-ENG/source/images/logo-cp.PNG" border="0"></td></tr></table>
 
 # Card Tokenization Overview
 
